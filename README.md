@@ -13,3 +13,7 @@ Napišite testove koji će da pokriju sledeće funkcionalnosti sajta:
 - Login podacima korišćenim prilikom registracije
 - Proces dodavanja artikala u korpu i njihovo poručivanje. Jednim testom ispratite dodavanje artikala u korpu, i njihovo poručivanje (Checkout). Verifikujte da li se iznosi slažu. Zahtev testa je da se u korpu moraju dodati najmanje tri različita artikla (količine nisu važne), pre kompletiranja porudžbine.
 - Logout
+
+## Rešenje zadatka
+Rešenje zadatka možete pronaći na grani `solved`. Ponuđeno rešenje zadatka nije jedino ispravno, već je samo primer kako bi
+neko sa iskustvom pristupio rešavanju ovog problema, na najkreativniji i najlakši način.
